@@ -59,6 +59,11 @@ git branch "branch Name"
 git switch "branch Name : master/main"
 
 
+git reset --hard <hash id>
+
+git revert <hash.id>
+
+
 
 
 
