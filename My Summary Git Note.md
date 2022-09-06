@@ -54,6 +54,14 @@ git config --global user.email "you@example.com"
 git config --global user.name "your name"
 
 
+git branch "branch Name"
+
+git switch "branch Name : master/main"
+
+
+
+
+
 
 ```
 ---
@@ -70,12 +78,19 @@ git config --global user.name "your name"
 ---
 ## git commit
 $ vi editor
+
 $  입력 : i
+
 $  입력종료 : esc
+
 $  저장없이 종료 : ♒
+
 $  저장없이 강제종료 : :q! 
+
 $  저장하고 종료 :  :wq 
+
 $  아래로 스크로 : j
+
 $   위로스크롤 : k
 
 ---
