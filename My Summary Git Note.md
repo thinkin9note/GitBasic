@@ -65,12 +65,14 @@ git config --global user.name "your name"
     * ! 주의 ! repo안에 또 repo를 만들지 말자 (이미 git init한 폴더 안에서 또 git init하지 말자)
 
 ## git commit
-> vi editor
->  입력 : i
->  입력종료 : esc
->  저장없이 종료 : ♒
->  저장없이 강제종료 : :q! 
->  저장하고 종료 :  :wq 
+$ vi editor
+$  입력 : i
+$  입력종료 : esc
+$  저장없이 종료 : ♒
+$  저장없이 강제종료 : :q! 
+$  저장하고 종료 :  :wq 
+$  아래로 스크로 : j
+$   위로스크롤 : k
 
 
 
