@@ -58,12 +58,17 @@ git branch "branch Name"
 
 git switch "branch Name : master/main"
 
+git checkout // old switch version
+
 
 git reset --hard <hash id>
 
 git revert <hash.id>
 
 
+git merge
+
+git rebase  // branch dispear
 
 
 
