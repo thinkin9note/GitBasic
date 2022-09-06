@@ -56,6 +56,7 @@ git config --global user.name "your name"
 
 
 ```
+---
 
 ## Directory → git init → Repository
 * Directory : 폴더, 아무 기능 없음
@@ -64,6 +65,9 @@ git config --global user.name "your name"
     * 실행 시, 현재 경로 뒤에 (master) 표시가 생기고, 해당 폴더에는 .git 이라는 폴더가 생성됨
     * ! 주의 ! repo안에 또 repo를 만들지 말자 (이미 git init한 폴더 안에서 또 git init하지 말자)
 
+---
+
+---
 ## git commit
 $ vi editor
 $  입력 : i
@@ -73,6 +77,8 @@ $  저장없이 강제종료 : :q!
 $  저장하고 종료 :  :wq 
 $  아래로 스크로 : j
 $   위로스크롤 : k
+
+---
 
 
 
