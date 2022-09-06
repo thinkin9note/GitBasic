@@ -4,7 +4,10 @@ Title : My Summary Git Note
 
 ---
 
+[Yalco / 얄팍한 코딩지식](https://www.yalco.kr/@git-github/1-6/)
+
 [Git Manual](https://heecheolman.tistory.com/55)
+
 [Git Manual](https://sukvvon.tistory.com/43)
 
 
