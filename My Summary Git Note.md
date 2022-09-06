@@ -17,6 +17,11 @@ git config credential.username <github email>
 // Windows , Occur Error 제어판/사용자계정/자격증명관리자/  git관련 자격사항 삭제
 
 
+echo "secret file name.txt" >> .gitignore 
+git status
+
+
+
 git add .
 
 git add <file Name>
